@@ -1,2 +1,4 @@
-# Rainfall-Prediction-using-Machine-Learning-
-give me 350 charcters only   ChatGPT said: Rainfall Prediction Using Machine Learning uses historical weather data like temperature, humidity, wind speed, pressure, and past rainfall to build regression models. The goal is to predict rainfall amounts to support agriculture, water management, and disaster preparedness with accurate forecasts.
+# Rainfall-Prediction-using-Machine-Learning
+Rainfall Prediction Using Machine Learning is a project that utilizes historical weather data including temperature, humidity, wind speed, atmospheric pressure, and previous rainfall to train machine learning models.The main objective is to accurately predict future rainfall amounts using regression techniques, supporting applications in agriculture, water resource planning, and disaster preparedness.
+
+
