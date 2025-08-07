@@ -124,6 +124,4 @@ Flood risk mitigation
 
 Municipal water resource allocation
 
-🙌 Acknowledgements
 
-Dataset: Kaggle / IMD Weather Dataset
