@@ -72,5 +72,3 @@ Use Cases
 Crop irrigation planning
 Flood risk mitigation
 Municipal water resource allocation
-
-
